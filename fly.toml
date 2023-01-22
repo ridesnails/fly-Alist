@@ -6,7 +6,6 @@ processes = []
 [env]
 
 [experimental]
-  allowed_public_ports = []
   auto_rollback = true
 
 [[services]]
