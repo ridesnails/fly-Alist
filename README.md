@@ -1,3 +1,5 @@
+不再推荐fly，建议使用 [alist-replit](https://github.com/alist-org/alist-replit)
+
 # 部署Alist
 
 - 添加密钥 `FLY_API_TOKEN`
